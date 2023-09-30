@@ -1,4 +1,4 @@
-// variavel com nome e XP do herói
+// variavel com nome e xp do herói
 var nomeDoHeroi = "Samba";
 var xpDoHeroi = 11000; // mude o valor para 1000 e veja o erro proposto pelo desafio
 
