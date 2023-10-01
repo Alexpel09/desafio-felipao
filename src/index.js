@@ -1,9 +1,9 @@
 // variavel com nome e xp do herói
-var nomeDoHeroi = "Samba";
-var xpDoHeroi = 11000; // mude o valor para 1000 e veja o erro proposto pelo desafio
+let nomeDoHeroi = "Samba";
+let xpDoHeroi = 11000; // mude o valor para 1000 e veja o erro proposto pelo desafio
 
 // variavel com nível do herói
-var nivelDoHeroi;
+let nivelDoHeroi;
 
 // tem um erro onde o numero 1000 não define nenhum nível do Herói, pois o nível Ferro é menor e o nível Bronze é maior
 if (xpDoHeroi < 1000) {
